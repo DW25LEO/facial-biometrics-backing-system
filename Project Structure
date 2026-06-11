@@ -1,0 +1,9 @@
+banking_system/
+├── app.py
+├── database.py
+├── encryption.py
+├── templates/
+│   ├── index.html
+│   ├── dashboard.html
+│   └── admin.html
+└── requirements.txt
